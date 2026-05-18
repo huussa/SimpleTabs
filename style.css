@@ -55,9 +55,9 @@ nav button.active {
     height: 200px;
     border: 1px solid #ccc;
     border-radius: 20px;
-    background-color: red;
+    background: #111c33;
+    color: #e2e8f0;
     margin: 50px;
-    color: #fff;
     justify-content: center;
     align-items: center;
     text-align: center;
