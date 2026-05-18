@@ -12,6 +12,7 @@ Dynamic content switching
 Active state styling for tabs
 Clean and responsive UI
 Built with pure HTML, CSS, and JavaScript (no libraries)
+
 🧠 What I Learned
 DOM selection and manipulation
 Event handling in JavaScript
