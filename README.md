@@ -1,6 +1,6 @@
 ## Project URL
-[https://huussa.github.io/SimpleTabs/
-](https://huussa.github.io/SimpleTabs/)
+[https://roadmap.sh/projects/simple-tabs
+](https://roadmap.sh/projects/simple-tabs)
 
 📌 Project Description
 
