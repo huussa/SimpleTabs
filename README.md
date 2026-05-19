@@ -1,6 +1,5 @@
 ## Project URL
-https://github.com/huussa/SimpleTabs
-
+https://huussa.github.io/SimpleTabs/
 📌 Project Description
 
 A simple and responsive Tabs component built using HTML, CSS, and vanilla JavaScript. This project demonstrates fundamental DOM manipulation, event handling, and dynamic UI state management without any external libraries or frameworks.
